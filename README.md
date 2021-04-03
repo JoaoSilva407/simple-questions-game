@@ -1,16 +1,21 @@
-# questions_game
+![gif](https://github.com/JoaoSilva407/simple-questions-game/blob/master/assets/images/gif.gif)
+[![NPM](https://img.shields.io/npm/l/flutter)](https://github.com/JoaoSilva407/simple-questions-game/blob/master/LICENSE)
 
-A new Flutter project.
 
-## Getting Started
+# Sobre o projeto
 
-This project is a starting point for a Flutter application.
+Jogo de perguntas de matemática simples, desenvolvido utilizando o framework Flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Tecnologias utilizadas
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [Flutter](https://flutter.dev/)
+* [Dart](https://dart.dev/)
+* [VSCode](https://code.visualstudio.com/)
+* Emulador: foi utilizado o próprio celular para emular a aplicação, por meio da Depuração USB
+
+# Autor
+
+João Pedro da Silva
+
+* [LinkedIn](https://www.linkedin.com/in/joaosilva-crz/)
